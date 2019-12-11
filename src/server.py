@@ -543,4 +543,4 @@ def update_map(year_list,check_sev, check_car):
 
 # Run dash server
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False, host='0.0.0.0')
