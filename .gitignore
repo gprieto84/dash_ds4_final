@@ -3,6 +3,8 @@
 .vscode/
 venv/
 
+nohup*
+
 *.ipynb
 NOTES.md
 
