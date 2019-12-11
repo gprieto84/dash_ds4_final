@@ -1,0 +1,12 @@
+.env
+.venv/**
+.vscode/
+venv/
+
+*.ipynb
+NOTES.md
+
+__pycache__
+
+node_modules
+tags
